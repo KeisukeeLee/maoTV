@@ -4,7 +4,7 @@
 
 
 "sites":[
-{ {"key":"csp_Xinsj","name":"新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080dy2.com"},
+{ "{"key":"csp_Xinsj","name":"新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080dy2.com"},
 {"key": "csp_xBPQ_爱看影视","name": "爱看影视〔佰欣园〕","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/TVboxo/main/MaooXP/%E7%88%B1%E7%9C%8B%E5%BD%B1%E8%A7%86" },
 {"key":"Kunyu77","name":"七七(佰欣园)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "Hei19","name": "石榴〔佰欣园〕","type": "3","api": "csp_Dora","searchable": "1","quickSearch": "1","filterable": "1","ext": "3bff500c8b1e06c052a1b0f1f7a62b45", "jar": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/%E7%9F%B3%E6%A6%B4.jar"},
