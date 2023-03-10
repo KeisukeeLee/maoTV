@@ -1,10 +1,11 @@
 {
+
 "spider":"https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/20221208.jar",
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vY2hlbmd4dWVsaTgxODkxMy9tYW9UVi9tYWluL2xpdmUlMjAoMSkudHh0"]}]}],
 
 
-"sites":[{"key":"csp_Xinsj","name":"新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080dy2.com"},
-{"key": "csp_xBPQ_爱看影视","name": "爱看影视〔佰欣园〕","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/TVboxo/main/MaooXP/%E7%88%B1%E7%9C%8B%E5%BD%B1%E8%A7%86" },
+"sites":[{"key": "mtv_pc_追剧达人", "name": "图图影视〔佰欣园〕", "type": 3, "api": "csp_Dora", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "110c922de7d69804467fb83d3bb664b5", "jar": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/%E5%9B%BE%E5%9B%BE.jar"},
+{ "key": "csp_Xinsj", "name": "新视觉〔佰欣园〕", "type": 3, "api": "csp_Xinsj", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/%E6%96%B0%E8%A7%86%E8%A7%89.jar"},{"key": "csp_xBPQ_爱看影视","name": "爱看影视〔佰欣园〕","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/TVboxo/main/MaooXP/%E7%88%B1%E7%9C%8B%E5%BD%B1%E8%A7%86" },
 {"key":"Kunyu77","name":"七七(佰欣园)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "Hei19","name": "石榴〔佰欣园〕","type": "3","api": "csp_Dora","searchable": "1","quickSearch": "1","filterable": "1","ext": "3bff500c8b1e06c052a1b0f1f7a62b45", "jar": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/%E7%9F%B3%E6%A6%B4.jar"},
   {"key": "Ddys","name": "低端〔佰欣园〕","type": "3","api": "csp_Dora","searchable": "1","quickSearch": "1", "filterable": "1","ext": "1cc92323700909e7d46623bc85b958d6", "jar": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/%E4%BD%8E%E7%AB%AF.jar" },
