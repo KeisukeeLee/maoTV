@@ -2667,6 +2667,7 @@ cnr经典音乐,http://ngcdn004.cnr.cn/live/dszs/index.m3u8
 温州经济科教,rtmp://livetv.dhtv.cn/live/financial?zzhed
 温州都市生活,http://live.wzqmt.com/wztv3/sd/live.m3u8?zzhed
 温州都市生活,rtmp://livetv.dhtv.cn/live/citylife?zzhed
+温州公共,http://lu1.cc/itv/php/wztv.php?id=wzgg
 浙江钱江都市,http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?zzhed
 浙江钱江都市,http://hw-m-l.cztv.com/channels/lantian/channel02/720p.m3u8?zzhed
 浙江钱江都市,http://hw-m-l.cztv.com/channels/lantian/channel02/360p.m3u8?zzhed
