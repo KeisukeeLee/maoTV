@@ -2663,7 +2663,7 @@ cnr经典音乐,http://ngcdn004.cnr.cn/live/dszs/index.m3u8
 温州洞头综合,http://l.cztvcloud.com/channels/lantian/SXdongtou1/720p.m3u8
 永嘉新闻综合,http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8?zzhed
 温州泰顺综合,http://taishun.news01.yunshanit.com/720p/StreamName.m3u8
-温州新闻综合,rtmp://livetv.dhtv.cn/live/news?zzhed
+温州新闻综合,http://lu1.cc/itv/php/wztv.php?id=wzxwzh
 温州经济科教,rtmp://livetv.dhtv.cn/live/financial?zzhed
 温州都市生活,http://live.wzqmt.com/wztv3/sd/live.m3u8?zzhed
 温州都市生活,rtmp://livetv.dhtv.cn/live/citylife?zzhed
