@@ -4,7 +4,10 @@
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vY2hlbmd4dWVsaTgxODkxMy9tYW9UVi9tYWluL2xpdmUlMjAoMSkudHh0"]}]}],
 
 
-"sites":[{"key":"兔小贝","name":"🐰兔小贝","type":3,"api":"https://gitee.com/robor/tvbox/raw/main/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/robor/tvbox/raw/main/js/tuxiaobei.js"},
+"sites":[
+{"key": "dr_Ddys","name": 所有资源来自网络(佰杺园)","type": 3,"api": "https://agit.ai/00700/vvebo/raw/branch/main/DRJS/Lib/drpy2.diy.min.js",	"playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://agit.ai/00700/vvebo/raw/branch/main/DRJS/%e4%bd%8e%e7%ab%af%e5%bd%b1%e8%a7%86.js"},
+{"key": "csp_Dmsvip","name": "端木视频(佰杺园)","type": 3,"api": "csp_XBiu","playerType": 1,"searchable": 1,"quickSearch": 1,	"filterable": 1,"ext": "http://dmsvip.top/index.php/vod/show{area}{by}{class}/id/{cateId}/page/{catePg}{year}.html"},
+{"key":"兔小贝","name":"🐰兔小贝","type":3,"api":"https://gitee.com/robor/tvbox/raw/main/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/robor/tvbox/raw/main/js/tuxiaobei.js"},
 {"key":"csp_fantuan","name":"饭团(佰杺园) ","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuanhd.com"},
 {"key":"csp_555","name":"5555影视(佰杺园) ","type":3,"api":"csp_Ys555","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.555dyy1.com"},
 {"key":"HDmoli","name":"魔力高清(佰杺园)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/robor/tvbox/raw/main/sub/HDmoli.json"},
