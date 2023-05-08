@@ -7,7 +7,6 @@
 "sites":[{"key":"兔小贝","name":"🐰兔小贝","type":3,"api":"https://gitee.com/robor/tvbox/raw/main/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/robor/tvbox/raw/main/js/tuxiaobei.js"},
 {"key":"csp_fantuan","name":"饭团(佰杺园) ","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuanhd.com"},
 {"key":"csp_555","name":"5555影视(佰杺园) ","type":3,"api":"csp_Ys555","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.555dyy1.com"},
-{"key":"布雷蓝光","name":"布雷(佰杺园)","type":3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitee.com/robor/tvbox/raw/main/sub/bulei.json"},
 {"key":"HDmoli","name":"魔力高清(佰杺园)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/robor/tvbox/raw/main/sub/HDmoli.json"},
 {"key":"农民影视","name":"🏻‍农民影视(佰杺园)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/robor/tvbox/raw/main/sub/nongmin.json"},
  {"key":"UM影院","name":"UM影院(佰杺园)","type":3,"api":"https://gitee.com/robor/tvbox/raw/main/js/lib/drpy2.min.js","ext":"https://gitee.com/robor/tvbox/raw/main/js/um.js"},
@@ -98,6 +97,7 @@
  {"key":"csp_xb_lez","name":"乐猪(佰杺园))","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/TVboxo/main/MaooXB/lezhutv.json"},
 {"key":"csp_xb_zxzj","name":"在线之家(佰杺园)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/TVboxo/main/MaooXB/%E5%9C%A8%E7%BA%BF%E4%B9%8B%E5%AE%B6.json"},
 {"key":"csp_xb_lgyy","name":"蓝光影院(佰杺园)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://lgyy.tv/vodshow/{cateId}--------{catePg}---.html"},
+{"key":"布雷蓝光","name":"布雷(佰杺园)","type":3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitee.com/robor/tvbox/raw/main/sub/bulei.json"},
 {"key":"csp_xb_zbk","name":"真不卡(佰杺园)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.zbkk.net/vodshow/{cateId}--------{catePg}---.html"},
 {"key":"csp_Tkys","name": "🔃天空(佰杺园)","type": 3,"api": "csp_Tkys","searchable": 1,"quickSearch": 1,"filterable": 1},
 #官方解析
