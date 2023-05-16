@@ -5,12 +5,11 @@
 
 
 "sites":[
-{"key":"兔小贝","name":"🐰兔小贝","type":3,"api":"https://gitee.com/robor/tvbox/raw/main/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/robor/tvbox/raw/main/js/tuxiaobei.js"},
+{"key":"农民影视","name":"农民(佰杺园)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/robor/tvbox/raw/main/sub/nongmin.json"},
 {"key":"csp_fantuan","name":"饭团(佰杺园) ","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuanhd.com"},
 {"key":"csp_555","name":"5555影视(佰杺园) ","type":3,"api":"csp_Ys555","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.555dyy1.com"},
 {"key":"HDmoli","name":"魔力高清(佰杺园)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/robor/tvbox/raw/main/sub/HDmoli.json"},
-{"key":"农民影视","name":"农民(佰杺园)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/robor/tvbox/raw/main/sub/nongmin.json"},
- {"key":"UM影院","name":"UM影院(佰杺园)","type":3,"api":"https://gitee.com/robor/tvbox/raw/main/js/lib/drpy2.min.js","ext":"https://gitee.com/robor/tvbox/raw/main/js/um.js"},
+{"key":"UM影院","name":"UM影院(佰杺园)","type":3,"api":"https://gitee.com/robor/tvbox/raw/main/js/lib/drpy2.min.js","ext":"https://gitee.com/robor/tvbox/raw/main/js/um.js"},
  {"key":"端木蓝光","name":"端木蓝光(佰杺园)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/robor/tvbox/raw/main/sub/duanmu.json"},
  {"key":"👨‍🌾宝仙HD","name":"宝仙HD(佰杺园)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/robor/tvbox/raw/main/sub/baoxian.json"},
 {"key":"csp_AppMr","name":"明明影视(佰杺园) ","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1},
@@ -116,6 +115,7 @@
 {"key":"百度资源","name":"百度资源(佰杺园)","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":0,"categories":[]},
 {"key":"樱花资源","name":"樱花资源(佰杺园)","type":1,"api":"https://m3u8.apiyhzy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":0,"categories":[]},
 {"key":"飘花电影","name":"飘花电影(佰欣园)","type":1,"api":"http://www.zzrhgg.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":0,"categories":[]},
+{"key":"兔小贝","name":"🐰兔小贝","type":3,"api":"https://gitee.com/robor/tvbox/raw/main/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/robor/tvbox/raw/main/js/tuxiaobei.js"},
 {"key":"有声小说吧","name":"👂有声小说吧(佰杺园)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/robor/tvbox/raw/main/sub/youshengxiaoshuoba.json"},
 {"key":"海洋听书","name":"👂海洋听书(佰杺园)","type":3,"api":"https://gitee.com/robor/tvbox/raw/main/js/lib/drpy2.min.js","ext":"https://gitee.com/robor/tvbox/raw/main/js/haiyangtingshu.js"},
  {"key":"csp_AList","name":"🅰AList网盘(佰杺园)","type":3,"api":"csp_AList","searchable":1,"quickSearch":0,"filterable":1,"changeable":0,"ext":"https://gitee.com/robor/tvbox/raw/main/sub/Alist.json"},
