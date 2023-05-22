@@ -1,10 +1,8 @@
 
 央视频道_,#genre#
 CCTV1,http://gg.gg/144ytu
-
-CCTV2财经,http://120.232.205.38/live.aishang.ctlcdn.com/00000110240244_1/encoder/0/playlist.m3u8?CONTENTID=00000110240244_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-
-CCTV3综艺,http://120.232.205.38/live.aishang.ctlcdn.com/00000110240245_1/encoder/0/playlist.m3u8?CONTENTID=00000110240245_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CCTV2财经,http://gg.gg/145hco
+CCTV3综艺,http://gg.gg/145hcw
 CCTV4中文国际,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225621/index.m3u8
 CCTV5体育,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225633/index.m3u8
 CCTV6电影,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225632/index.m3u8
@@ -1647,6 +1645,14 @@ beyond三,http://gg.gg/12zwz3l
 
 
 经典歌曲,#genre# 
+你還要我怎樣,http://gg.gg/145hb8
+周興哲永不失聯的愛,http://gg.gg/145hbc
+卢靖姗-刘惜君《吻别》,http://gg.gg/145hbf
+四季予你,http://gg.gg/145hbi
+張茜 - 匆匆走完這一生,http://gg.gg/145hbm
+爱上一个不回家的人,http://gg.gg/145hbn
+嘉宾,http://gg.gg/145hbq
+如果你也听说,http://gg.gg/145hbr
 亲爱的那不是爱情,http://gg.gg/145gkf
 天黑黑,http://gg.gg/145gko
 倒影,http://gg.gg/145gkz
