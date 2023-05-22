@@ -1,6 +1,6 @@
 
 央视频道_,#genre#
-CCTV1综合,http://cntv.sbs/live?id=cctv1
+CCTV1,http://cntv.sbs/live?id=cctv1
 CCTV2财经,http://cntv.sbs/live?id=cctv2
 CCTV3综艺,http://cntv.sbs/live?id=cctv3
 CCTV4中文国际,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225621/index.m3u8
