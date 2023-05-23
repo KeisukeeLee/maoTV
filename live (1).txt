@@ -4,10 +4,16 @@ CCTV1,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000210103.m3u8
 CCTV2财经,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000203603.m3u8
 CCTV3综艺,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000203803.m3u8
 CCTV4中文国际,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225621/index.m3u8
+CCTV4中文国际,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000204803.m3u8
+CCTV5体育,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000205103.m3u8
+CCTV5+,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000204503.m3u8
 CCTV5体育,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225633/index.m3u8
 CCTV6电影,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225632/index.m3u8
+CCTV6电影,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000203303.m3u8
+CCTV7国防军事,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000510003.m3u8
 CCTV7国防军事,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225624/index.m3u8
 CCTV8电视剧,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225631/index.m3u8
+CCTV8电视剧,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000203903.m3u8
 CCTV9纪录,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225646/index.m3u8
 CCTV10科教,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225636/index.m3u8
 CCTV11戏曲,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225628/index.m3u8
