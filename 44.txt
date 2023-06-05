@@ -37,7 +37,7 @@
 {"key": "csp_Cokemv",	"name": "Cokemv(佰杺园","type": 3,	"api": "csp_Cokemv","searchable": 1,"quickSearch": 1,"filterable": 1	},
 {"key": "csp_xp_yinfans","name": "💥音范丝4K(佰杺园)","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/TVboxo/main/%E9%9F%B3%E8%8C%83%E4%B8%9D.json"},
 {"key": "Kuaikan","name": "快看(S(佰杺园))","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"csp_Auete","name":"Auete(佰杺园)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":0,"filterable":1},
+{"key":"Auete","name":"Auete(佰杺园)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":0,"filterable":1},
 {"key":"csp_Kuaikan","name":"快看(佰杺园)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_xpath_kuqimv","name": "经典MV(佰杺园)","type": 3,"api": "csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/%E7%BB%8F%E5%85%B8MV.json"},
 {"key": "push_agent","name":"推送(佰杺园)","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"1f373a68733e4dafa5fa28dca9826b35"},
