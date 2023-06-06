@@ -43,6 +43,8 @@
    "jar": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/LIBVIO.jar"},
  {"key":"csp_xml___量子资源","name":"量子资源(佰杺园)"   ,"type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key": "csp_Bd","name": "bid(佰杺园)","type": 3,"api": "csp_Bdys01","searchable": 1,"quickSearch": 1,"filterable": 1},
+ {"key": "Vidhub","name": "Vidhub┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/TVboxo/main/Vidhub.json"},
+ {"key": "APP影院","name": "APP┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/TVboxo/main/APP%E5%BD%B1%E8%A7%86.json"},
 {"key":"小苹果","name":"🐞小苹果(佰杺园)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"在线之家","name":"🐞在线之家(佰杺园)","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_Cokemv",	"name": "Cokemv(佰杺园","type": 3,	"api": "csp_Cokemv","searchable": 1,"quickSearch": 1,"filterable": 1	},
