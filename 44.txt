@@ -5,7 +5,7 @@
 
 
 "sites":[
-{"key":"农明影视","name":"农民(佰杺园)","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/TVboxo/main/%E5%86%9C%E6%B0%91%E5%BD%B1%E8%A7%86.json"},
+{"key":"农明影视","name":"(佰杺园)","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/TVboxo/main/%E5%86%9C%E6%B0%91%E5%BD%B1%E8%A7%86.json"},
 {"key":"csp_fantuan","name":"饭团(佰杺园) ","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuanhd.com"},
 {"key":"csp_555","name":"5555影视(佰杺园) ","type":3,"api":"csp_Ys555","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.555dyy1.com"},
 {"key":"HDmoli","name":"魔力高清(佰杺园)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/TVboxo/main/%E9%AD%94%E5%8A%9B%E9%AB%98%E6%B8%85.json"},
