@@ -4,7 +4,7 @@
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vY2hlbmd4dWVsaTgxODkxMy9tYW9UVi9tYWluL2xpdmUlMjAoMSkudHh0"]}]}],
 
 
-"sites":[
+"sites":[ {"key":"电影盒子","name":"🎞电影盒子(佰杺园)","type":3,"api":"csp_XYQHiker","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://github.com/chengxueli818913/TVboxo/blob/main/电影盒子.json"},
 {"key":"农明影视","name":"农民(佰杺园)","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/TVboxo/main/%E5%86%9C%E6%B0%91%E5%BD%B1%E8%A7%86.json"},
 {"key":"csp_fantuan","name":"饭团(佰杺园) ","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuanhd.com"},
 {"key":"csp_555","name":"5555影视(佰杺园) ","type":3,"api":"csp_Ys555","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.555dyy1.com"},
@@ -12,7 +12,6 @@
 {"key":"端木蓝光","name":"端木蓝光(佰杺园)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/TVboxo/main/%E7%AB%AF%E6%9C%A8.json"},
  {"key":"👨‍🌾宝仙HD","name":"宝仙HD(佰杺园)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/TVboxo/main/%E5%AE%9D%E4%BB%99.json"},
  {"key":"大米星球","name":"大米星球(佰杺园)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/TVboxo/main/%E5%A4%A7%E7%B1%B3%E6%98%9F%E7%90%83.json"},
- {"key":"电影盒子","name":"🎞电影盒子(佰杺园)","type":3,"api":"csp_XYQHiker","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://github.com/chengxueli818913/TVboxo/blob/main/电影盒子.json"},
 {"key":"csp_AppMr","name":"明明影视(佰杺园) ","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Voflix","name":"Voflix(佰杺园)","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/TVboxo/main/VOFLIX.json"},
 {"key":"新视觉","name":"✨新视觉(佰杺园)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable": 1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/TVboxo/main/%E6%96%B0%E8%A7%86%E8%A7%89.json"},
