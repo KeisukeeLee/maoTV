@@ -17,7 +17,7 @@
 {"key":"csp_Voflix","name":"Voflix(佰杺园)","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/TVboxo/main/VOFLIX.json"},
 {"key":"新视觉","name":"✨新视觉(佰杺园)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable": 1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/TVboxo/main/%E6%96%B0%E8%A7%86%E8%A7%89.json"},
 {"key":"多米蓝光","name":"多米蓝光(佰杺园)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vod.dmdh.top:5680//api.php/app/"},
-{"key":"东方影视", "name": "东方影视", "type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.dfspapp.com/api.php/app/"},
+{"key":"东方影视", "name": "东方影视(佰杺园)", "type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.dfspapp.com/api.php/app/"},
 {"key":"爱迪影视","name":"爱迪影视(佰杺园)","type": 3,"playerType":"2","api": "csp_AppYsV2","ext": "https://api123.adys.app/xgapp.php/v3/"},
 {"key":"萌蛋蛋","name":"萌蛋蛋(佰杺园)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.mengdandan.com/xgapp.php/v1/"},
 {"key":"布雷蓝光","name":"布雷┃4K(佰杺园)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/TVboxo/main/布雷.json"},
