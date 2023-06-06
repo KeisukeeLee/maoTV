@@ -127,10 +127,6 @@
 {"key":"百度资源","name":"百度资源(佰杺园)","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":0,"categories":[]},
 {"key":"樱花资源","name":"樱花资源(佰杺园)","type":1,"api":"https://m3u8.apiyhzy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":0,"categories":[]},
 {"key":"飘花电影","name":"飘花电影(佰欣园)","type":1,"api":"http://www.zzrhgg.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":0,"categories":[]},
-{"key":"兔小贝","name":"🐰兔小贝","type":3,"api":"https://gitee.com/robor/tvbox/raw/main/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/robor/tvbox/raw/main/js/tuxiaobei.js"},
-{"key":"有声小说吧","name":"👂有声小说吧(佰杺园)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/robor/tvbox/raw/main/sub/youshengxiaoshuoba.json"},
-{"key":"海洋听书","name":"👂海洋听书(佰杺园)","type":3,"api":"https://gitee.com/robor/tvbox/raw/main/js/lib/drpy2.min.js","ext":"https://gitee.com/robor/tvbox/raw/main/js/haiyangtingshu.js"},
- {"key":"csp_AList","name":"🅰AList网盘(佰杺园)","type":3,"api":"csp_AList","searchable":1,"quickSearch":0,"filterable":1,"changeable":0,"ext":"https://gitee.com/robor/tvbox/raw/main/sub/Alist.json"},
 {"key": "csp_BBB","name": "👨‍👩‍👦b站大杂烩","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/TVboxo/main/bibi"},
 {"key": "演唱会","name": "演唱会(佰杺园)","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/%E6%BC%94%E5%94%B1%E4%BC%9A.json"},
 {"key": "教学","name": "教学(佰杺园)","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/%E6%95%99%E5%AD%A6.json"}
