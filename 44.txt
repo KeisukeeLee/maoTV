@@ -5,10 +5,10 @@
 
 
 "sites":[{"key":"电影盒子","name":"🎞电影盒子(佰杺园)","type":3,"api":"csp_XYQHiker","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://github.com/chengxueli818913/TVboxo/blob/main/电影盒子.json"},
-{"key": "csp_XBPQ_JOJO","name": "JOJO┃BPQ","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"二次截取": "class=\"content-body\"&&class=\"content-lift\"","数组": "<a&&</a>","图片": "src=\"&&\"","标题": "class=\"card-title\">&&</p>","副标题": "class=\"item-speed\">&&</p>","链接": "href=\"&&\"",
+{"key": "csp_XBPQ_JOJO","name": "JOJO(佰杺园)","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"二次截取": "class=\"content-body\"&&class=\"content-lift\"","数组": "<a&&</a>","图片": "src=\"&&\"","标题": "class=\"card-title\">&&</p>","副标题": "class=\"item-speed\">&&</p>","链接": "href=\"&&\"",
 "播放数组": "class=\"plyr-sidebar-list&&</div>","嗅探词": "cn-beijing-data.aliyundrive.net","搜索url": "https://app.syrme.top/video/search?q={wd}","分类": "电影$电影#美剧$美剧#日剧$日剧#韩剧$韩剧#动漫$动漫#纪录$纪录","分类url": "https://app.syrme.top/video/type/tag?type={cateId}&tag=&page={catePg}&size=18;;u0"}},
  {"key": "子子影视","name": "子子影视(佰杺园)","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/TVboxo/main/%E5%AD%90%E5%AD%90%E5%BD%B1%E8%A7%86.json"},
- {"key": "玩偶1","name": "玩偶┃APP","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://xn--yeta099v.online:66/api.php/app/"},
+ {"key": "偶偶","name": "偶偶(佰杺园)","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://xn--yeta099v.online:66/api.php/app/"},
 {"key": "酷影","name": "酷影(佰杺园)","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1, "filterable": 1, "ext": "http://124.222.175.111:89/api.php/app/"},
  {"key": "csp_aidi","name": "爱迪(佰杺园)","type": 3,"api": "csp_AppYsV2","searchable": 1, "quickSearch": 1,"filterable": 1,"ext": "https://aidiapp.xyz/xgapp.php/v2/" },
  {"key": "csp_ruyi","name": "如意(佰杺园)", "type": 3, "api": "csp_AppYsV2", "searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": "1","ext": "http://cms.maoyingshi.cc/api.php/app/"},
