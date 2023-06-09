@@ -3,7 +3,7 @@
 深夜失眠剧场,http://hms2864nc1972666629.live.aikan.miguvideo.com/wh7f454c46tw1843623967_-1450534236/wd_r2/virtuallive/5100181674/150/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=43.154.149.250&timestamp=20230609095948&ContentId=265218858&timezone=UTC&mtv_session=a0361e409e1905c32a7bb49eae2b18d8&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=cd38c867076daeb52b1a16e9f745cee3
 深夜失眠剧场,http://hms2864nc1972666629.live.aikan.miguvideo.com/wh7f454c46tw1843623967_-1450534236/wd_r2/virtuallive/5100181674/150/index.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=43.154.149.250&timestamp=20230609095948&encrypt=ae6ff6962c67dc9d07875e59ff3d0969&ContentId=265218858&timezone=UTC&mtv_session=a0361e409e1905c32a7bb49eae2b18d8&icpid=88888888&RTS=1686304788&from=12&hms_devid=2864&online=1686304788
 
-深夜失眠剧场,http://live.aikan.miguvideo.com/wd_r2/virtuallive/5100181674/150/index.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=43.154.149.250&timestamp=20230609060256&encrypt=a0361e409e1905c32a7bb49eae2b18d8&ContentId=265218858&timezone=UTC
+
 咪咕,http://hms2884nc1972666631.live.aikan.miguvideo.com/wh7f454c46tw520788965_1166303889/wd_r2/virtuallive/5100180869/150/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=43.154.149.250&timestamp=20230609082610&ContentId=265219029&timezone=UTC&mtv_session=b860b64365ae2c75ed8d744892dd56f3&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=42ca6b5bafc385bc81c888c477c9658b
 CCTV1,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000210103.m3u8
 CCTV2财经,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000203603.m3u8
