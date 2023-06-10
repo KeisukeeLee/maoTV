@@ -4,7 +4,8 @@
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vY2hlbmd4dWVsaTgxODkxMy9tYW9UVi9tYWluL2xpdmUlMjAoMSkudHh0"]}]}],
 
 
-"sites":[{"key":"电影盒子","name":"🎞电影盒子","type":3,"api":"csp_XYQHiker","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://github.com/chengxueli818913/TVboxo/blob/main/电影盒子.json"},
+"sites":[{"key":"红牛资源","name":"红牛资源","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"电影盒子","name":"🎞电影盒子","type":3,"api":"csp_XYQHiker","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://github.com/chengxueli818913/TVboxo/blob/main/电影盒子.json"},
 {"key": "csp_XBPQ_JOJO","name": "JOJO","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"二次截取": "class=\"content-body\"&&class=\"content-lift\"","数组": "<a&&</a>","图片": "src=\"&&\"","标题": "class=\"card-title\">&&</p>","副标题": "class=\"item-speed\">&&</p>","链接": "href=\"&&\"",
 "播放数组": "class=\"plyr-sidebar-list&&</div>","嗅探词": "cn-beijing-data.aliyundrive.net","搜索url": "https://app.syrme.top/video/search?q={wd}","分类": "电影$电影#美剧$美剧#日剧$日剧#韩剧$韩剧#动漫$动漫#纪录$纪录","分类url": "https://app.syrme.top/video/type/tag?type={cateId}&tag=&page={catePg}&size=18;;u0"}},
  {"key": "子子影视","name": "子子影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/TVboxo/main/%E5%AD%90%E5%AD%90%E5%BD%B1%E8%A7%86.json"},
@@ -95,7 +96,6 @@
 {"key":"小鸟动漫","name":"小鸟动漫","type":3,"api":"csp_AppYs","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://xydm.baicai.buzz/mogai_api.php/v1.vod"},
 {"key":"悟空影院","name":"悟空影院","type":3,"api":"csp_AppYs","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://dapi.pntao.com/api.php/v1.vod"},
 {"key":"天堂资源","name":"天堂资源","type":1,"api":"http://vipmv.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"红牛资源","name":"红牛资源","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"天翼资源","name":"天翼资源","type":0,"api":"https://www.911ysw.top/tianyi.php/provide/vod/at/xml","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"干饭影视","name":"干饭影视","type":0,"api":"http://124.220.183.81:83/api.php/provide/vod/at/xml","playUrl":"","searchable":1,"quickSearch":1},
 {"key": "ff9","name": "ff9资源","type": 0,"api": "https://www.ff9.top/api.php/provide/vod/at/xml","playUrl": "","searchable":1,"quickSearch":1},
