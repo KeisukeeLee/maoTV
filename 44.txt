@@ -10,7 +10,6 @@
 "播放数组": "class=\"plyr-sidebar-list&&</div>","嗅探词": "cn-beijing-data.aliyundrive.net","搜索url": "https://app.syrme.top/video/search?q={wd}","分类": "电影$电影#美剧$美剧#日剧$日剧#韩剧$韩剧#动漫$动漫#纪录$纪录","分类url": "https://app.syrme.top/video/type/tag?type={cateId}&tag=&page={catePg}&size=18;;u0"}},
  {"key": "子子影视","name": "子子影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "https://ghproxy.com/https://raw.githubusercontent.com/KeisukeeLee/TVboxo/main/%E5%AD%90%E5%AD%90%E5%BD%B1%E8%A7%86.json"},
  {"key": "csp_aidi","name": "爱迪","type": 3,"api": "csp_AppYsV2","searchable": 1, "quickSearch": 1,"filterable": 1,"ext": "https://aidiapp.xyz/xgapp.php/v2/" },
- {"key": "csp_ruyi","name": "如意", "type": 3, "api": "csp_AppYsV2", "searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": "1","ext": "http://cms.maoyingshi.cc/api.php/app/"},
  {"key": "蓝光官采","name": "小猫咪采集","type": 1,"api": "http://zy.xiaomaomi.vip/api.php/provide/vod/?ac=list", "searchable": 1,"quickSearch": 1, "playUrl": "https://jx.jsonplayer.com/player/?url=","filterable": 0, "categories": ["国产剧","综艺","动漫","香港剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片", "犯罪片",
  "悬疑片","惊悚片","剧情片","冒险片","记录片"] },
  {"key": "暴风资源", "name": "暴风采集","type": 1,"api": "https://bfzyapi.com/api.php/provide/vod/","searchable": 1, "quickSearch": 1,"categories": ["国产剧", "韩国剧", "香港剧","台湾剧", "欧美剧", "动作片", "科幻片","战争片", "奇幻片","喜剧片","爱情片","恐怖片", "犯罪片", "悬疑片","惊悚片", "剧情片", "冒险片", "记录片", "综艺","动漫" ] },
