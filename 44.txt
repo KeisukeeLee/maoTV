@@ -1,7 +1,7 @@
 {
 
 "spider":"https://ghproxy.com/https://raw.githubusercontent.com/KeisukeeLee/maoTV/main/0608.jar",
-"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vY2hlbmd4dWVsaTgxODkxMy9tYW9UVi9tYWluL2xpdmUlMjAoMSkudHh0"]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vS2Vpc3VrZWVMZWUvbWFvVFYvbWFpbi9saXZlJTIwKDEpLnR4dA=="]}]}],
 
 
 "sites":[{"key":"红牛资源","name":"红牛资源","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
