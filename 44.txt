@@ -9,8 +9,6 @@
 {"key": "csp_XBPQ_JOJO","name": "JOJO","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"二次截取": "class=\"content-body\"&&class=\"content-lift\"","数组": "<a&&</a>","图片": "src=\"&&\"","标题": "class=\"card-title\">&&</p>","副标题": "class=\"item-speed\">&&</p>","链接": "href=\"&&\"",
 "播放数组": "class=\"plyr-sidebar-list&&</div>","嗅探词": "cn-beijing-data.aliyundrive.net","搜索url": "https://app.syrme.top/video/search?q={wd}","分类": "电影$电影#美剧$美剧#日剧$日剧#韩剧$韩剧#动漫$动漫#纪录$纪录","分类url": "https://app.syrme.top/video/type/tag?type={cateId}&tag=&page={catePg}&size=18;;u0"}},
  {"key": "子子影视","name": "子子影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "https://ghproxy.com/https://raw.githubusercontent.com/KeisukeeLee/TVboxo/main/%E5%AD%90%E5%AD%90%E5%BD%B1%E8%A7%86.json"},
- {"key": "偶偶","name": "偶偶","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://xn--yeta099v.online:66/api.php/app/"},
-{"key": "酷影","name": "酷影","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1, "filterable": 1, "ext": "http://124.222.175.111:89/api.php/app/"},
  {"key": "csp_aidi","name": "爱迪","type": 3,"api": "csp_AppYsV2","searchable": 1, "quickSearch": 1,"filterable": 1,"ext": "https://aidiapp.xyz/xgapp.php/v2/" },
  {"key": "csp_ruyi","name": "如意", "type": 3, "api": "csp_AppYsV2", "searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": "1","ext": "http://cms.maoyingshi.cc/api.php/app/"},
  {"key": "蓝光官采","name": "小猫咪采集","type": 1,"api": "http://zy.xiaomaomi.vip/api.php/provide/vod/?ac=list", "searchable": 1,"quickSearch": 1, "playUrl": "https://jx.jsonplayer.com/player/?url=","filterable": 0, "categories": ["国产剧","综艺","动漫","香港剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片", "犯罪片",
@@ -89,7 +87,7 @@
 {"key":"csp_xb_lgyy","name":"蓝光影院","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://lgyy.tv/vodshow/{cateId}--------{catePg}---.html"},
 {"key":"csp_xb_zbk","name":"真不卡","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.zbkk.net/vodshow/{cateId}--------{catePg}---.html"},
 {"key":"csp_Tkys","name": "🔃天空","type": 3,"api": "csp_Tkys","searchable": 1,"quickSearch": 1,"filterable": 1},
-#官方解析
+//官方解析
 {"key":"6U资源","name":"6U资源","type":1,"api":"http://www.6uzy.cc/inc/apijson_vod.php","searchable":0,"quickSearch":0},
 {"key":"天堂资源","name":"天堂资源","type":1,"api":"http://vipmv.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key": "csp_xml_taopian","name": "淘片","type": 0,"api": "https://taopianzy.com/home/cjapi/as/mc10/vod/xml/m3u8","categories": []}, 
@@ -107,7 +105,7 @@
 {"key":"龙腾资源","name":"龙腾资源","type":1,"api":"http://175.178.7.35:2020/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"海玉影视","name":"海玉影视","type":1,"api":"http://tv2.hykjtv.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"热剧天堂","name":"热剧天堂","type":1,"api":"http://175.178.7.35:2020/api.php/provide/vod/","searchable":1,"quickSearch":1},
-#切片资源
+//切片资源
 {"key":"无尽","name":"无尽","type":1,"api":"https://api.wujinapi.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":0,"categories":[]},
 {"key":"快车资源","name":"快车资源","type":1,"api":"https://caiji.kczyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"多多资源","name":"多多资源","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
@@ -125,11 +123,11 @@
 {"key":"快播资源","name":"快播资源","type":1,"api":"http://www.kuaibozy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"八戒资源","name":"八戒资源","type":1,"api":"http://cj.bajiecaiji.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
 {"key":"FF9资源","name":"FF9资源","type":1,"api":"https://www.ff9.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
-#优质资源
+//优质资源
 {"key":"U酷资源","name":"U酷资源","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"土剧TV","name":"土剧TV","type":1,"api":"http://tujutv.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"乐活影视","name":"乐活影视","type":1,"api":"https://lehootv.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-#三方聚合
+//三方聚合
 {"key":"csp_xpath_rrviprw_hy","name":"@人人影视_","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/hyundaic/xpath@master/rrviprw.json"},
 
 {"key":"csp_appys_v1_淘剧社", "name":"淘剧社_", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://app.shuhai99.com/api.php/v1.vod"},
