@@ -20,7 +20,6 @@
 {"key":"新视觉","name":"✨新视觉","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable": 1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/KeisukeeLee/TVboxo/main/%E6%96%B0%E8%A7%86%E8%A7%89.json"},
 {"key": "多米蓝光","name": "多米","type": 3, "api": "csp_AppYsV2","searchable": 1, "quickSearch": 1,"filterable": 1,"ext": "http://v.dmdh.top/api.php/app/"},
 {"key":"爱迪影视","name":"爱迪影视","type": 3,"playerType":"2","api": "csp_AppYsV2","ext": "https://api123.adys.app/xgapp.php/v3/"},
-{"key":"萌蛋蛋","name":"萌蛋蛋","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.mengdandan.com/xgapp.php/v1/"},
 {"key":"达达龟","name":"达达龟","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/KeisukeeLee/TVboxo/main/%E8%BE%BE%E8%BE%BE%E9%BE%9F.json"},
 {"key":"23TV","name":"23影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"数组": "class=\"aplus-exp\"&&</a>","分类":"电影$1#剧集$2#动漫$4#综艺$3#记录$20","分类url":"https://www.23wm.net/vodshow/id/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html"}},
 {"key":"热播之家","name":"☘热播之家","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/KeisukeeLee/TVboxo/main/%E7%83%AD%E6%92%AD%E4%B9%8B%E5%AE%B6.json"},
@@ -117,6 +116,7 @@
 ],
 
 "deprecated-site":[
+{"key":"萌蛋蛋","name":"萌蛋蛋","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.mengdandan.com/xgapp.php/v1/"},
 {"key": "非凡资源","name": "非凡","type": 1, "api": "http://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/", "searchable": 1,"playUrl": "json:https://jf.icucloud.vip/api/jsonindex.php/?key=ahNCgSypVOi9W5aloR&url=", "quickSearch": 1,"categories": ["国产剧", "韩国剧","香港剧", "台湾剧", "欧美剧","动作片", "科幻片","战争片","奇幻片","喜剧片","爱情片", "恐怖片","犯罪片","悬疑片","惊悚片", "剧情片","冒险片", "记录片","综艺", "动漫" ] },
 {"key":"csp_xml___量子资源","name":"量子资源"   ,"type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key": "快看资源","name": "快看采集","type": 1,"api": "https://kuaikan-api.com/api.php/provide/vod/","playUrl": "","searchable": 1,"quickSearch": 1,"filterable": 1, "categories": [ "动作片","动画电影","喜剧片","奇幻片","恐怖片","悬疑片","惊悚片","战争片","歌舞片","灾难片","爱情片","犯罪片","科幻片","经典片","冒险片","剧情片","网络电影","国产剧","韩国剧","欧美剧","日本剧","泰剧","港台剧","新马剧","海外剧","其他剧","欧美综艺","日本综艺","韩国综艺","国产综艺","新马泰综艺","港台综艺","其他综艺","欧美动漫","日本动漫","韩国动漫","国产动漫","新马泰动漫","港台动漫","其他动漫"]},
