@@ -3,6 +3,8 @@
 "spider":"https://ghproxy.com/https://raw.githubusercontent.com/KeisukeeLee/maoTV/main/0608.jar",
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vS2Vpc3VrZWVMZWUvbWFvVFYvbWFpbi9GdWppYW5UZWxlY29tLXJ0c3AudHh0"]}]}],
 "sites":[
+//A:红牛资源，天空资源，光速资源，暴风采集，乐活影视，飞速资源，鱼乐资源，小猫咪采集，39影视，电影盒子，魔力高清，多米，Voflix，新视觉，宝仙HD，快看，小苹果
+//B:影图，淘片，
 {"key":"红牛资源","name":"红牛资源","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"电影盒子","name":"🎞电影盒子","type":3,"api":"csp_XYQHiker","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://github.com/KeisukeeLee/TVboxo/blob/main/电影盒子.json"},
 {"key": "csp_XBPQ_JOJO","name": "JOJO","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"二次截取": "class=\"content-body\"&&class=\"content-lift\"","数组": "<a&&</a>","图片": "src=\"&&\"","标题": "class=\"card-title\">&&</p>","副标题": "class=\"item-speed\">&&</p>","链接": "href=\"&&\"",
